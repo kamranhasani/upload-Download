@@ -1,0 +1,22 @@
+{
+    "name": "kamranhasani/uploaddownload",
+    "description": "about upload and download in php",
+    "type": "php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kamranhasani\\UploadDownload\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kamran Hasani",
+            "email": "kamranhasaniinfo@gmail.com"
+        }
+    ],
+    "require": {}
+    
+
+
+
+}
